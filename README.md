@@ -41,7 +41,7 @@
 
 ## 📫 Let’s Connect
 
-- 📧 Email: [letzautomate@gmail.com]
+- 📧 Email: [ram.jangatisetty@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/ramjangatisetty]
 
 ---
