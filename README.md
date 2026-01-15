@@ -11,7 +11,8 @@
 - **CI/CD & DevOps**: GitHub Actions, GitLab CI, Docker, Jenkins
 - **Cloud & Serverless**: AWS Lambda, DynamoDB, S3, CloudWatch
 - **Tools & Utilities**: Allure Reports, ExtentReports, Postman, IntelliJ, VS Code
-- **Design Patterns**: Page Object Model, Factory, Singleton, Parameter Object Pattern, Builder Pattern, Strategy Pattern 
+- **Design Patterns**: Page Object Model, Factory, Singleton, Parameter Object Pattern, Builder Pattern, Strategy Pattern
+- **AI-Powered Coding Assistants (GenAI)**: GitHub Copilot, Amazon Q Developer, Amazon Kiro, Codex
 
 ---
 
