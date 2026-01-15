@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ramakrishna Jangatisetty
 
-🎯 **Test Automation Architect** with 19+ years of experience designing and implementing enterprise-grade automation frameworks for UI, API, and cloud-native applications.
+🎯 **Test Automation Architect** with 19+ years of experience designing and implementing enterprise-grade Test automation frameworks for UI, API, and cloud-native applications.
 ---
 
 ## 🛠️ Tech Stack & Skills
