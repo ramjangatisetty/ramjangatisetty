@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ramakrishna Jangatisetty
 
-🎯 **AI-Assisted Test Automation Architect | 19+ yrs | UI, API, Cloud-native frameworks
+🎯 AI-Assisted Test Automation Architect | 19+ yrs | UI, API, Cloud-native frameworks
 ---
 
 ## 🛠️ Tech Stack & Skills
